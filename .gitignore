@@ -1,0 +1,8 @@
+# dist should be in jpls93.github.io
+dist/
+
+# lock files should not be included
+*.lock
+
+# node_modules should not be included
+node_modules/
